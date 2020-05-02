@@ -1,2 +1,3 @@
 # test
 # new
+echo "hello"
